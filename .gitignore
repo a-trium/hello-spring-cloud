@@ -1,0 +1,8 @@
+.gradle
+.idea
+
+eureka/build
+zuul/build
+api-one/build
+api-two/build
+api-other/build
